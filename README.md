@@ -11,7 +11,7 @@ Acidentes podem ocorrer por diversos motivos, incluindo:
 Esses acidentes não só colocam em risco a vida dos trabalhadores, mas também podem causar interrupções na produção, danos a equipamentos e custos adicionais para as empresas. A detecção precoce de situações perigosas e a resposta imediata são essenciais para minimizar os danos e garantir um ambiente de trabalho seguro.
 
 
-![Detecção de Pose](https://s3.ezgif.com/tmp/ezgif-3-7681fc1374.gif)
+![Detecção de Pose](https://github.com/prestesvinicius/work-security/blob/main/pose-detection-test.gif)
 
 ## Objetivos Específicos
 
