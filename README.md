@@ -1,6 +1,6 @@
 # Detecção de Pose para Segurança Industrial
 
-##⚡ Descrição do Problema
+## ⚡ Descrição do Problema
 
 Em ambientes industriais, a segurança dos trabalhadores é uma prioridade crítica. 
 Acidentes podem ocorrer por diversos motivos, incluindo:
