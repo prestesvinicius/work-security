@@ -4,6 +4,9 @@
 
 Em ambientes industriais, a segurança dos trabalhadores é uma prioridade crítica. Acidentes podem ocorrer por diversos motivos, incluindo falhas humanas, mau uso de equipamentos e condições inseguras. Esses acidentes não só colocam em risco a vida dos trabalhadores, mas também podem causar interrupções na produção, danos a equipamentos e custos adicionais para as empresas. A detecção precoce de situações perigosas e a resposta imediata são essenciais para minimizar os danos e garantir um ambiente de trabalho seguro.
 
+
+![Detecção de Pose](https://s3.ezgif.com/tmp/ezgif-3-7681fc1374.gif)
+
 ## Objetivos Específicos
 
 1. Desenvolvimento do algoritmo de detecção de pose utilizando a biblioteca YOLOV10.
